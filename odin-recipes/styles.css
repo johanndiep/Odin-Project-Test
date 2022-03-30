@@ -1,0 +1,11 @@
+.Maintitle,
+.Secondarytitle,
+.Thirdtitle {
+    color: white;
+    background-color: blue; 
+}
+
+.Textfield {
+    color: red;
+    background-color: yellow;
+}
